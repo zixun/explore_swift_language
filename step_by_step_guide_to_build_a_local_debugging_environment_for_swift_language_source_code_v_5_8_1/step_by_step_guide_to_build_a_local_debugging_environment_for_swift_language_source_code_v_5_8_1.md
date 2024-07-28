@@ -1,6 +1,6 @@
 #Step-by-step guide to build a local debugging environment for Swift language source code v5.8.1 //手把手搭建Swift语言源码本地调试环境v5.8.1
 
-##1. Preface //前言
+## Preface //前言
 > The first step to start reading a project source code is to make the project compile and run smoothly by yourself. This is especially importent.
 
 开始阅读一份项目源码的第一步，是先让这个项目能够通过你自己编译通过并且顺利跑起来,这一点尤其重要.
