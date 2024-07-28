@@ -8,7 +8,7 @@
 
 笔者之前一直在探索Objective-C语言的底层原理.
 
->One day I suddenly thought that since Swift is the feature programing language of iOS, why don't I explpre the underlying principles of Swift instead of continuing to explore a language that is destined to be abandoned
+>One day I suddenly thought that since Swift is the future programing language of iOS, why don't I explpre the underlying principles of Swift instead of continuing to explore a language that is destined to be abandoned
 
 有天突然想到既然iOS未来的编程语言是Swift，我为什么不去研究Swift语言的底层原理，而在一个注定被抛弃的语言上继续挖掘呢
 
